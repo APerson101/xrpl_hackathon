@@ -1,0 +1,19 @@
+{
+  "name": "xrpl_hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "ripple-keypairs": "^1.1.4",
+    "xrpl": "^2.3.1"
+  }
+}
